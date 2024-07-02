@@ -1,0 +1,267 @@
+{
+  "appinfo": {
+    "value": 1,
+    "AppID": "1047205",
+    "AppName": "Live Tv",
+    "IconUrl": "https://github.com/tiriti1/tiri/blob/main/foro.jpg?raw=true",
+    "UserID": "1392054",
+    "packageName": "com.group_chuckyhood",
+    "primaryColor": "#FF246EE9",
+    "primaryDarkColor": "#FF000000",
+    "accentColor": "#FF246EE9",
+    "withFacebookAd": "0",
+    "bannerFbId": null,
+    "fullScreenFbId": null,
+    "admobAppID": null,
+    "BanarAdID": null,
+    "fullScreenAdID": null,
+    "withAdmob": "0",
+    "one_signal_id": "6764318b680406d82af1845478159a83cd296eda",
+    "startAppId": null,
+    "rewardAdmobId": null,
+    "font": "Cairo",
+    "lastUpdate": "1708785898293"
+  },
+  "pages": [
+    {
+      "value": 1,
+      "ID": "4213243",
+      "UserID": "1392054",
+      "AppID": "1047205",
+      "pageType": "FreePage",
+      "pageTitle": "chuky cine",
+      "showBannerAd": "1",
+      "showFullScreenAd": "0",
+      "ishomepage": "0",
+      "attributes": {
+        "password": null,
+        "backgroundImageUrl": null,
+        "phone": null,
+        "randomOrderWidget": false,
+        "appbarW": {
+          "backgroundColor": null,
+          "backgroundDrawerColor": null,
+          "centerTitle": true,
+          "showAppBar": true,
+          "showSearchBar": false,
+          "appBarTextColor": null,
+          "actionsIconButtonList": []
+        },
+        "audioUrl": null,
+        "repeatAudio": false,
+        "pageLayout": "List"
+      },
+      "widgets": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine"
+    },
+    {
+      "value": 1,
+      "ID": "4213249",
+      "UserID": "1392054",
+      "AppID": "1047205",
+      "pageType": "AboutPage",
+      "pageTitle": "About",
+      "showBannerAd": "1",
+      "showFullScreenAd": "0",
+      "ishomepage": "0",
+      "attributes": {
+        "password": null,
+        "backgroundImageUrl": null,
+        "phone": null,
+        "randomOrderWidget": false,
+        "appbarW": {
+          "backgroundColor": null,
+          "backgroundDrawerColor": null,
+          "centerTitle": true,
+          "showAppBar": true,
+          "showSearchBar": false,
+          "appBarTextColor": null,
+          "actionsIconButtonList": []
+        },
+        "audioUrl": null,
+        "repeatAudio": false,
+        "pageLayout": "List"
+      },
+      "widgets": "https://j1files.mobeasy.com/page/4213249/11.json"
+    },
+    {
+      "value": 1,
+      "ID": "4213250",
+      "UserID": "1392054",
+      "AppID": "1047205",
+      "pageType": "FreePage",
+      "pageTitle": "TIRISTAR",
+      "showBannerAd": "1",
+      "showFullScreenAd": "0",
+      "ishomepage": "0",
+      "attributes": {
+        "password": null,
+        "backgroundImageUrl": null,
+        "phone": null,
+        "randomOrderWidget": false,
+        "appbarW": {
+          "backgroundColor": null,
+          "backgroundDrawerColor": null,
+          "centerTitle": true,
+          "showAppBar": true,
+          "showSearchBar": false,
+          "appBarTextColor": null,
+          "actionsIconButtonList": []
+        },
+        "audioUrl": null,
+        "repeatAudio": false,
+        "pageLayout": "List"
+      },
+      "widgets": "https://raw.githubusercontent.com/tirimosqui2/mlpla/main/LATIRI_STAR.w3u"
+    },
+    {
+      "value": 1,
+      "ID": "4230052",
+      "UserID": "1392054",
+      "AppID": "1047205",
+      "pageType": "FreePage",
+      "pageTitle": "con valores",
+      "showBannerAd": "1",
+      "showFullScreenAd": "0",
+      "ishomepage": "0",
+      "attributes": {
+        "password": null,
+        "backgroundImageUrl": null,
+        "phone": null,
+        "randomOrderWidget": false,
+        "appbarW": {
+          "backgroundColor": null,
+          "backgroundDrawerColor": null,
+          "centerTitle": true,
+          "showAppBar": true,
+          "showSearchBar": false,
+          "appBarTextColor": null,
+          "actionsIconButtonList": []
+        },
+        "audioUrl": null,
+        "repeatAudio": false,
+        "pageLayout": "List"
+      },
+      "widgets": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinevalores.w3u"
+    },
+    {
+      "value": 1,
+      "ID": "4231469",
+      "UserID": "1392054",
+      "AppID": "1047205",
+      "pageType": "FreePage",
+      "pageTitle": "Privacy Policy",
+      "showBannerAd": "1",
+      "showFullScreenAd": "0",
+      "ishomepage": "0",
+      "attributes": {
+        "password": null,
+        "backgroundImageUrl": null,
+        "phone": null,
+        "randomOrderWidget": false,
+        "appbarW": {
+          "backgroundColor": null,
+          "backgroundDrawerColor": null,
+          "centerTitle": true,
+          "showAppBar": true,
+          "showSearchBar": false,
+          "appBarTextColor": null,
+          "actionsIconButtonList": []
+        },
+        "audioUrl": null,
+        "repeatAudio": false,
+        "pageLayout": "List"
+      },
+      "widgets": "https://j1files.mobeasy.com/page/4231469/2.json"
+    },
+    {
+      "value": 1,
+      "ID": "4234453",
+      "UserID": "1392054",
+      "AppID": "1047205",
+      "pageType": "FreePage",
+      "pageTitle": "English",
+      "showBannerAd": "1",
+      "showFullScreenAd": "0",
+      "ishomepage": "0",
+      "attributes": {
+        "password": null,
+        "backgroundImageUrl": null,
+        "phone": null,
+        "randomOrderWidget": false,
+        "appbarW": {
+          "backgroundColor": null,
+          "backgroundDrawerColor": null,
+          "centerTitle": true,
+          "showAppBar": false,
+          "showSearchBar": false,
+          "appBarTextColor": null,
+          "actionsIconButtonList": []
+        },
+        "audioUrl": null,
+        "repeatAudio": false,
+        "pageLayout": "List"
+      },
+      "widgets": "https://j1files.mobeasy.com/page/42353/10.json"
+    },
+    {
+      "value": 1,
+      "ID": "4245621",
+      "UserID": "1392054",
+      "AppID": "1047205",
+      "pageType": "FreePage",
+      "pageTitle": "Chuky-Hood",
+      "showBannerAd": "1",
+      "showFullScreenAd": "0",
+      "ishomepage": "0",
+      "attributes": {
+        "password": null,
+        "backgroundImageUrl": null,
+        "phone": null,
+        "randomOrderWidget": false,
+        "appbarW": {
+          "backgroundColor": null,
+          "backgroundDrawerColor": null,
+          "centerTitle": true,
+          "showAppBar": true,
+          "showSearchBar": false,
+          "appBarTextColor": null,
+          "actionsIconButtonList": null
+        },
+        "audioUrl": null,
+        "repeatAudio": false,
+        "pageLayout": "List"
+      },
+      "widgets": "https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood"
+    },
+    {
+      "value": 1,
+      "ID": "4247361",
+      "UserID": "1392054",
+      "AppID": "1047205",
+      "pageType": "FreePage",
+      "pageTitle": "ChukyHood Deportes",
+      "showBannerAd": "0",
+      "showFullScreenAd": "0",
+      "ishomepage": "1",
+      "attributes": {
+        "password": null,
+        "backgroundImageUrl": null,
+        "phone": null,
+        "randomOrderWidget": false,
+        "appbarW": {
+          "backgroundColor": null,
+          "backgroundDrawerColor": null,
+          "centerTitle": true,
+          "showAppBar": true,
+          "showSearchBar": false,
+          "appBarTextColor": null,
+          "actionsIconButtonList": []
+        },
+        "audioUrl": null,
+        "repeatAudio": false,
+        "pageLayout": "List"
+      },
+      "widgets": "https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood"
+    }
+  ]
+}
